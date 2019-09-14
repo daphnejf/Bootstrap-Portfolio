@@ -1,0 +1,20 @@
+body {
+    background-image: url("assets/images/fishnets-and-hearts.png");
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    border: 3px solid #4aaaa5;
+    color: white;
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+
+.navbar navbar-expand-lg navbar-light bg-light {
+  background-color: pink;
+  
+  
+}
